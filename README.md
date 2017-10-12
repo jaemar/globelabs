@@ -11,7 +11,7 @@ then
 
 or
 
-	$ gem install globelabs
+	$ gem install globe_labs
 
 
 ## Usage
